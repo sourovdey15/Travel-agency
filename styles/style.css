@@ -389,3 +389,30 @@ nav a {
     font-size: 26px;
     font-weight: 800;
 }
+/* Footer Area */
+footer {
+    background-color: #13131814;
+    margin-top: 80px;
+    padding-top: 80px;
+    height: 400px;
+}
+.fotterlogo {
+    margin: 0px 35%;
+}
+.footer-txt, .social-icons {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+.social-icons ul {
+    margin: 40px 0;
+}
+.social-icons ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+    font-size: 25px;
+}
+.social-icons p {
+    margin-top: 40px;
+}
