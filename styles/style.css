@@ -17,6 +17,7 @@ body {
     color: #FFF;
     background-color: #FF5400;
     font-size: 15px;
+    font-weight: 700;
     padding: 10px 20px;
     border: 2px solid #FF5400;
     border-radius: 10px;
@@ -332,4 +333,36 @@ nav a {
 .pp-video-area video {
     width: 100%;
     border-radius: 20px;
+}
+/* NewsLettere Area */
+.news-letter-area {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.input-area {
+    text-align: center;
+}
+.input-area button{
+    width: 105%;
+    margin-top: 20px;
+}
+.input-area input  {
+    width: 100%;
+    margin-top: 20px;
+}
+.input-area input {
+    border: none;
+    border-radius: 10px;
+    background-color: #ede8e8d8;
+    padding: 15px 0 15px 20px;;
+}
+.news-letter {
+    border: 1px solid #FF5400;
+    border-radius:10px ;
+    padding: 50px;
+}
+.newsletter-img {
+    width: 70%;
 }
