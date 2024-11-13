@@ -50,6 +50,49 @@
 .tours-img img {
     width: 100%;
 }
+/* Gallery Area */
+.g-text-area {
+    width:100%;
+    margin: 80px auto;
+}
+.col-1 img {
+    width: 100%;
+}
+.col-1 {
+    grid-template-columns: repeat(1, 1fr);
+}
+.col-2, .col-3 {
+    flex-direction: column;
+}
+.whyus-text {
+    width: 100%;
+}
+.card-area {
+    flex-direction: column;
+}
+.card3 {
+    width: 85%;
+    margin: 20px 0;
+}
+/* Deal And Discount Area */
+.dealNdis-title{
+    width: 100%;
+}
+.tour-package, .tour-package2,
+.tour-package3
+  {
+    width: 60%;
+    height: auto;
+    border-radius: 20px;
+    background-color: #e0dfddbd;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.schedule ul li {
+    margin-bottom: 5px;
+}
 
 
 }
