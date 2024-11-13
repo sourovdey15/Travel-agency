@@ -1,0 +1,55 @@
+@media screen and (max-width:572px) {
+    /* Header Area Style */
+    .nav-area {
+        margin-top: 0;
+        flex-direction: column;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    nav a {
+        margin-right: 10px; 
+    }
+         /* Banner Area  */
+         .banner-area {
+            background-position:center;
+         }
+         .banner-title-area {
+            padding: 90px 0;
+        }
+        .banner-title-area h2 {
+            font-size: 30px;
+            font-weight: 800;
+        }
+        .banner-title-area p {
+            font-size: 12px;
+        }
+        /* From Area */
+        .form-area {
+            margin: 39px;
+            margin-top: -70px;
+            padding: 16px 0;
+        }
+        .form-area input {
+            padding: 10px 10px 10px 12px;
+            margin: 10px ;
+            width: 80%;
+        }
+        .form-area button {
+            width: 85%;
+            margin-top: 8px;
+        }
+
+/* Tours Main Area  */       
+.tours-main  {
+    display: block;
+}
+.tours-area, .tours-img {
+    width: 100%;
+    margin-bottom: 40px;
+} 
+.tours-img img {
+    width: 100%;
+}
+
+
+}
