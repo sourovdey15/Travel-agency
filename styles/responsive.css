@@ -93,6 +93,18 @@
 .schedule ul li {
     margin-bottom: 5px;
 }
-
+/* Perfect Place Area */
+.perfect-place-area {
+    flex-direction: column;
+}
+.pp-list {
+    margin-bottom: 20px;
+}
+.pp-50col {
+    width: 100%;
+}
+.pp-video-area video {
+    margin-top: 40px;
+}
 
 }
