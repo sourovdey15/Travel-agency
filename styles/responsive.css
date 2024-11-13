@@ -106,5 +106,37 @@
 .pp-video-area video {
     margin-top: 40px;
 }
+/* NewsLettere Area */
+.news-letter-area {
+    flex-direction: column;
+}
+.newsletter-img  {
+    width: 100%;
+}
+.newsletter-img img {
+    width: 100%;
+}
+/* Save 70 Area */
+.save-70 {
+    color: #FFF;
+    background-color: #FF5400;
+    width: 170px;
+    height: 60px;
+    padding: 20px;
+    border-radius: 20px;
+    position: absolute;
+    top: 46%;
+     left: 52%;
+    rotate: -35deg;
+}
+.save-70 p {
+    margin: 5px;
+}
+
+}
+.save-70 h3 {
+    margin: 4px;
+    font-size: 20px;
+}
 
 }

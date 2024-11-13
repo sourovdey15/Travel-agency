@@ -210,7 +210,7 @@ nav a {
     border-radius: 15px;
 }
 .card3 {
-    width: 50%;
+    width: 44%;
     margin: 20px auto;
 }
 /* Deal And Discount Area */
@@ -365,4 +365,27 @@ nav a {
 }
 .newsletter-img {
     width: 70%;
+    position: relative;
+}
+/* Save 70 Area */
+.save-70 {
+    color: #FFF;
+    background-color: #FF5400;
+    width: 240px;
+    height: 95px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    position: absolute;
+    top: 52%;
+    left: 57%;
+    rotate: -35deg;
+}
+.save-70 p {
+    color: #FFF;
+}
+.save-70 h3 {
+    margin: 0;
+    font-size: 26px;
+    font-weight: 800;
 }
